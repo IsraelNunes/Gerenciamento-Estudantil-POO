@@ -1,2 +1,2 @@
-# Gerenciamento-Estudantio-POO
-TRabalho de orientação a objetos em JAVA
+# Gerenciamento-Estudantil-POO
+Trabalho de orientação a objetos em JAVA
