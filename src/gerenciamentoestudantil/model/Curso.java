@@ -6,7 +6,7 @@ public class Curso {
     private String nomeCurso;
     private int cargaHoraria;
     private Professor professor;
-    private List<Estudante> estudantes;
+    protected List<Estudante> estudantes;
 
     public Curso(String nomeCurso, int cargaHoraria){
         this.nomeCurso = nomeCurso;
@@ -14,7 +14,6 @@ public class Curso {
         this.estudantes = new ArrayList<>();
     }
 
-    // Getters e Setters
     public String getNomeCurso() {
         return nomeCurso;
     }
